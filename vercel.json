@@ -1,5 +1,6 @@
 {
 	"version": 2,
+	"name": "my-mern-app",
 	"builds": [
 		{
 			"src": "server/index.js",
